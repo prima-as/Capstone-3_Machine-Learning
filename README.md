@@ -30,7 +30,7 @@ Dampaknya, perusahaan:
 
 ---
 
-## 🔍 Project Workflow
+## Project Workflow
 
 ### 1. Business Problem Understanding
 
@@ -110,7 +110,6 @@ Fitur tambahan ini diikutkan dalam preprocessing dan modeling seperti fitur lain
 **-** **Error Analysis**: profil nasabah yang menjadi False Negative dan False Positive untuk perbaikan fitur.
 
 ---
-
 
 ## Conclusion
 
